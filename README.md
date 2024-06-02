@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Ikenna04/stats-preview-card-component-main)
-- Live Site URL: (https://ikenna04.github.io/stats-preview-card-component-main/)
+- Solution URL: (https://github.com/Ikenna04/stats-preview-card-component)
+- Live Site URL: (https://ikenna04.github.io/stats-preview-card-component/)
 
 ## My process
 
